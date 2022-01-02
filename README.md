@@ -3,7 +3,7 @@
 SafetyAdda is a platform where you find all yours douts cleared about road safety. It's a initiative in order to make traffic rules and road safety accessible to all on finger tips.
 
 
-
+#### Screenshots-
 ![Screenshot](./public/photos/ss1.png?raw=true "Screenshot")
 ![Screenshot](./public/photos/ss2.png?raw=true "Screenshot")
 
