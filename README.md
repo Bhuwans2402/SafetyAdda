@@ -4,6 +4,8 @@ SafetyAdda is a platform where you find all yours douts cleared about road safet
 
 
 
+![Screenshot](./public/photos/ss1.png?raw=true "Screenshot")
+![Screenshot](./public/photos/ss2.png?raw=true "Screenshot")
 
 
 ## Features of the Website -
@@ -15,8 +17,6 @@ SafetyAdda is a platform where you find all yours douts cleared about road safet
 - Have a section to post any kindof information related to road system & safety management.
 - Can see, edit & delete your post on contributions section.
 
-
-### View deployed site- 
 
 
 
